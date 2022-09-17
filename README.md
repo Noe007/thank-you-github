@@ -994,7 +994,6 @@ Signed,
 - Michel Billard ([@mbillard](https://github.com/mbillard)), Web Developer, Canada
 - Rajula Vineet Reddy ([@rajula96reddy](https://github.com/rajula96reddy)), Student, IIIT Bangalore, India
 - Aaron Gill-Braun ([@AaronGillBraun](https://github.com/aarongillbraun)), Full Stack Developer
-- Noe Neftali Miniel :clap:([@Noe007](https://github.com/noe007)), Computer Science Student, USA
 - Braxton Ehle ([@braxtone](https://github.com/braxtone)), Security Engineer, USA
 - Santos Perez ([@mxra8](https://github.com/mxra8)), Web developer, Mexico
 - James Cuénod ([@jcuenod](https://github.com/jcuenod)), Biblical Studies by day - Software Developer by night (cf. [parabible](https://parabible.com)), South Africa
